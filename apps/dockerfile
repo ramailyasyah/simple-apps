@@ -1,6 +1,6 @@
 FROM node:18.16
 RUN apt update -y 
-ADD ./app
+ADD . /app
 RUN npm install
 LABEL email="rama@gmain.id"
 CMD ["npm", "start"]
