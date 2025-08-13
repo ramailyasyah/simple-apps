@@ -2,5 +2,5 @@ projectKey=simple-apps
 serverUrl=http://172.23.8.13:10000
 serverVersion=25.8.0.112029
 dashboardUrl=http://172.23.8.13:10000/dashboard?id=simple-apps
-ceTaskId=f95a0a05-b180-4f18-8803-bd4c64739381
-ceTaskUrl=http://172.23.8.13:10000/api/ce/task?id=f95a0a05-b180-4f18-8803-bd4c64739381
+ceTaskId=c4da5c12-7de8-4aec-9931-f34a27651104
+ceTaskUrl=http://172.23.8.13:10000/api/ce/task?id=c4da5c12-7de8-4aec-9931-f34a27651104

@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "jest": "^30.0.5",
+    "jest-sonar-reporter": "^2.0.0"
+  }
+}
