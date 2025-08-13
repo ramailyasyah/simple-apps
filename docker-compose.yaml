@@ -1,0 +1,14 @@
+services:
+  app-simpleapps:
+    container_name: ct-simpleapps
+    build: ./apps
+      context: .
+      dockerfile: apps/dockerfile
+    ports:
+      - "5000:3000"
+    environment:
+      - NODE_ENV=production
+    env_file:
+      - ./apps/.env
+    restart: always
+    
