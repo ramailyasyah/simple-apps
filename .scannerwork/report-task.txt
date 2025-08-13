@@ -1,6 +1,6 @@
-projectKey=SimpleApps
+projectKey=simple-apps
 serverUrl=http://172.23.8.13:10000
 serverVersion=25.8.0.112029
-dashboardUrl=http://172.23.8.13:10000/dashboard?id=SimpleApps
-ceTaskId=9f7b1647-8d1b-4de3-bc78-9ae595acf466
-ceTaskUrl=http://172.23.8.13:10000/api/ce/task?id=9f7b1647-8d1b-4de3-bc78-9ae595acf466
+dashboardUrl=http://172.23.8.13:10000/dashboard?id=simple-apps
+ceTaskId=f95a0a05-b180-4f18-8803-bd4c64739381
+ceTaskUrl=http://172.23.8.13:10000/api/ce/task?id=f95a0a05-b180-4f18-8803-bd4c64739381
